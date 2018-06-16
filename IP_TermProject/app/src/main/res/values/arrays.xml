@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dataType">
+        <item>INTEGER</item>
+        <item>STRING</item>
+        <item>OID</item>
+        <item>Counter32</item>
+        <item>Gauge32</item>
+        <item>TimeTicks</item>
+    </string-array>
+</resources>

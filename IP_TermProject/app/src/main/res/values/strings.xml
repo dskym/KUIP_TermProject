@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IP_TermProject</string>
+    <string name="snmp_get">SNMPGET</string>
+    <string name="snmp_set">SNMPSET</string>
+    <string name="snmp_walk">SNMPWALK</string>
+    <string name="oid">OID</string>
+    <string name="value">VALUE</string>
+    <string name="temp">TextView</string>
+</resources>
